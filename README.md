@@ -4,11 +4,11 @@
 
 ### Hi 👋 I'm Matheus M. Moreira. · Oi 👋 Eu sou Matheus M. Moreira.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student;Full-Stack+Developer+%7C+Back-End+%26+Front-End;IT+Support+%26+TechOps+Analyst" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student;Full-Stack+Developer+%7C+Back-End+%26+Front-End;IT+Support+%26+TechOps+Analyst" alt="Typing SVG" />
 
 </div>
 
-## About me
+## 🚀 About me
 
 Hi! My name is **Matheus**. I'm a **Software Engineering** student working with **Back-End and Front-End**. Today I work as an **IT / TechOps Analyst**, but my big goal is to become a great **Software Engineer**.
 
@@ -16,7 +16,7 @@ I have **3 years of hands-on experience in IT Support and Technical Operations**
 
 I currently build **complete Full-Stack applications**, working with relational (SQL) and non-relational (NoSQL) databases, API architecture and containerization with **Docker**. Welcome to my profile!
 
-## Sobre mim
+## 🚀 Sobre mim
 
 Olá! Meu nome é **Matheus**, sou estudante de **Engenharia de Software** e trabalho com **Back-End e Front-End**. Hoje atuo como **Analista de TI / TechOps**, mas meu grande objetivo é me tornar um grande **Engenheiro de Software**.
 
